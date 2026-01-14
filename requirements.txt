@@ -3,7 +3,7 @@ langchain==0.0.308
 pinecone-client==2.2.2
 llama-cpp-python==0.2.0
 transformers==4.33.0
-torch==2.0.1
+t
 sentence-transformers==2.2.2
 pydantic==2.0.2
 python-dotenv==1.0.0
